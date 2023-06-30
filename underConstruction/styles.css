@@ -1,0 +1,40 @@
+/* css */
+
+@font-face{
+    font-family: octoberCrow;
+    src: url("fonts/october_crow.ttf");
+}
+@font-face {
+    font-family: subwayHaze;
+    src: url("fonts/subway_haze.ttf");
+}
+
+body{
+    background: url("img/BG.png");
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+}
+
+H1{
+    font-family: octoberCrow;
+}
+H2{
+    font-family: subwayHaze;
+}
+#content{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+#text{
+}
+#footer{
+    font-family: subwayHaze;
+    position: absolute;
+    bottom: 0px;
+    
+}
