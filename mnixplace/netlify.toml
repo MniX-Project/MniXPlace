@@ -1,4 +1,4 @@
 [redirects]
 from = "/*"
-to = "/index.html"
+to = "/src/app/page.js"
 status = 200
