@@ -24,5 +24,8 @@
     "url": "minxplace"
   },
   "author": "phrmarques",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "minx"
+  ]
 }
